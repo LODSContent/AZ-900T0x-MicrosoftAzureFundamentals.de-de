@@ -6,7 +6,7 @@ layout: home
 
 # <a name="content-directory"></a>Inhaltsverzeichnis
 
-Hyperlinks to each of the walkthroughs. Instructors may choose to use the walkthrough as a demonstration or a student lab. 
+Hyperlinks zu den einzelnen exemplarischen Vorgehensweisen. Die Kursleiter können die exemplarische Vorgehensweise als Demonstration oder als Kursteilnehmer-Lab verwenden. 
 
 ## <a name="walkthroughs"></a>Exemplarische Vorgehensweisen
 
